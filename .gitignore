@@ -9,8 +9,7 @@ env/
 .env.*.local
 
 # DataBase
-.database/
-database/
+database/multitool.db
 __pycache__/
 
 #Local Filse
