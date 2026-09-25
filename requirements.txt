@@ -1,0 +1,6 @@
+aiogram
+SQLAlchemy
+aiosqlite
+python-dotenv
+google-genai
+typesafe-ai
