@@ -1,0 +1,17 @@
+# VENV
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# DataBase
+.database/
+database/
+__pycache__/
+
+#Local Filse
+test.py
